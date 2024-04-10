@@ -20,7 +20,7 @@ Generates a readme file after asking a series of questions.
 Run index.js
 
 ## Usage
-
+[watch the video](https://watch.screencastify.com/v/WH5YbLQipauJ6WMBZWVr)
 
 
 ## Credits
